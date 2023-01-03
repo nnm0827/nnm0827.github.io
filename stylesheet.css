@@ -1,0 +1,34 @@
+h1{
+    font-size: 36px;
+    text-align: center;
+}
+.goal-block{
+    padding: 20px;
+    margin: 20px;
+}
+
+.red{
+    border: 3px solid #df563b;
+}
+
+.blue{
+    border: 3px solid #3c4767;
+}
+
+.black{
+    border: 3px solid #000000;
+}
+
+.goal-name{
+    font-size: 24px;
+}
+
+.sentence{
+    font-size: 16px;
+}
+
+small{
+    display: block;
+    text-align: center;
+    margin-top:16px;
+}
